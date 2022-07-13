@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color:#ff4f58;
+}
+
+#parent {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  padding:10%;
+  border:5px solid #669db3;
+  border-radius:15px;
+  background-color:#f0f6f7;
+}
+
+button {
+  color:white;
+  border:1px solid;
+}
+
+#btn {
+  border-color:black;
+  background-color: #669Db3;
+}
+
+#btnEdit {
+  background-color: #a89c94;
+  border-color:white;
+  visibility: hidden;
+}
+
+#btnCA {
+  background-color: #ff4f58;
+  visibility: hidden;
+}
+
+
